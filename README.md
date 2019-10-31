@@ -9,3 +9,7 @@ SSL/TLS 기반 HTTPS 프로토콜 학습
 2. 동영상 강좌 링크
   * 생활코딩 - HTTPS와 SSL 인증서 (https://opentutorials.org/course/228/4894)
   
+3. SSH 관련 링크
+  * FTPS, SFTP 또는 FTP over SSH의 차이점은 무엇입니까? (https://blog.devolutions.net/2016/05/ftps-sftp-or-ftp-over-ssh)
+  * SSH 란? (https://opentutorials.org/module/432/3738)
+  
